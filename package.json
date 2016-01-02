@@ -1,0 +1,32 @@
+{
+  "name": "urlapi_example",
+  "version": "1.0.0",
+  "description": "Url api for serialize from object to string and parse string to object with examples and tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Ponomarev <maksugr@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maksugr/urlapi"
+  },
+  "keywords": [
+    "urlapi",
+    "api",
+    "url",
+    "parse",
+    "serialize"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "chai": "^3.4.1",
+    "clone": "^1.0.2",
+    "comparejs": "^0.1.2",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^6.0.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
